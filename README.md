@@ -5,7 +5,7 @@
 - 🌱 I’m participating in the [GADS 2020][GADS]
 - 👯 I’m an active team player
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I speak french with a Nigerian accent
+- ⚡ Fun fact: I speak french in a Nigerian accent
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@
 
 ### Here are some courses/videos i am currently learning from
 <!-- YOUTUBE:START -->
-- [Stanford Algorithms and Data structures](hhttps://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
+- [Stanford Algorithms and Data structures](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Harvard CS50x on youtube even though I went the EDx route](https://www.youtube.com/user/cs50tv)
 - [IBM cloud computing fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ)
 - [DATA SCIENCE](https://www.youtube.com/c/KenJee1/playlists)
