@@ -62,6 +62,6 @@
 <img align="left" alt="DIBRI.'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=dibrinsofor&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/blacksyre
-[linkedin]: www.linkedin.com/in/dibrinsofor
+[linkedin]: https://www.linkedin.com/in/dibrinsofor/
 [website]: https://www.edx.org/school/harvardx
 [GADS]: https://help.pluralsight.com/help/google-africa-developer-scholarship-2020
