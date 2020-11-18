@@ -1,4 +1,4 @@
-### Hi! My name is DIBRI. - (pronounced as DEE•BUH•REE)
+### Hi! My name is DIBRI. - (pronounced as DEEB•REE)
 
 ## DIBRI. is trying his best.
 - I’m currently learning from some [CS50x courses][website]!
