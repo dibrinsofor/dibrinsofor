@@ -7,7 +7,7 @@
 - Interned at Total SE as a SWE -- a lead player in the Oil and gas industry in Nigeria.
 - Finally finished Silicon Valley
 - Was granted a Google African Developer's Scholarship.
-- I participated in the Facebook Build for SDG hackerthon. I made it to the second round with our E-tourism solution.
+- Participated in the Facebook Build for SDG hackerthon. I made it to the second round with our E-tourism solution.
 - Finished the CS50 web development course and had fun doing it.
 
 ### Connect with me:
@@ -19,18 +19,15 @@
 <br />
 ---
 
-### My youtube Tech recommendations
+### Youtube recommendations
 <!-- YOUTUBE:START -->
 - [Joma Oppa's startup series](https://www.youtube.com/playlist?list=PL0BAwa0pBqg6cgVi_N2arwjs6TQ6foPi7)
 - [Tren Black with some useless computer science advice](https://www.youtube.com/playlist?list=PLa5SGZY04W0vMZIjI9G6M2lukRZ5kZJrh)
 - [Joshua Fluke](https://www.youtube.com/playlist?list=PLhURsu87NO8sqWOmpb-JyiUTswo0nyNn9)
 - [Jarvis Johnson | When he still did tech videos](https://www.youtube.com/playlist?list=PLyBrFxr0n1iObXDxwQWShqvwepYB7b3rU)
 - [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
+- [SeneGoddess, Mbenda Ndour](https://www.youtube.com/c/Senegoddess/videos)
 <!-- YOUTUBE:END -->
-
----
-
-<img align="left" alt="DIBRI.'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=dibrinsofor&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/notdibri
 [linkedin]: https://www.linkedin.com/in/dibrinsofor/
