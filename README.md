@@ -4,10 +4,10 @@
 - I’m currently exploring OpenCV for my final year project [OpenCV]
 
 ## Last year I:
-- Interned at Total SE as a SWE -- a lead player in the Oil and gas industry in Nigeria.
+- Interned at Total SE as a SWE -- a leading player in the Oil and Gas industry in Nigeria.
 - Finally finished Silicon Valley
 - Was granted a Google African Developer's Scholarship.
-- Participated in the Facebook Build for SDG hackerthon. I made it to the second round with our E-tourism solution.
+- Participated in the Facebook Build for SDG hackathon. We made it to the second round with our E-tourism solution.
 - Finished the CS50 web development course and had fun doing it.
 
 ### Connect with me:
