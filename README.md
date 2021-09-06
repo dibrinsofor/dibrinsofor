@@ -1,14 +1,14 @@
 ### my name is dibri.
 
 ## dibri. is trying his best.
-- I’m currently exploring OpenCV for my final year project [OpenCV]
+- I’m working on personal projects atm
 
 ## Last year I:
-- Interned at Total SE as a SWE -- a leading player in the Oil and Gas industry in Nigeria.
+- Interned at Total SE as a SWE -- a leading player in the Oil and Gas industry in Nigeria
 - Finally finished Silicon Valley
-- Was granted a Google African Developer's Scholarship.
-- Participated in the Facebook Build for SDG hackathon. We made it to the second round with our E-tourism solution.
-- Finished the CS50 web development course and had fun doing it.
+- Was granted a Google African Developer's Scholarship
+- Participated in the Facebook Build for SDG hackathon. We made it to the second round with our E-tourism solution
+- Finished the CS50 web development course and had fun doing it
 
 ### Connect with me:
 
@@ -19,14 +19,14 @@
 <br />
 ---
 
-### Youtube recommendations
+### recommendations
 <!-- YOUTUBE:START -->
-- [Joma Oppa's startup series](https://www.youtube.com/playlist?list=PL0BAwa0pBqg6cgVi_N2arwjs6TQ6foPi7)
-- [Tren Black with some useless computer science advice](https://www.youtube.com/playlist?list=PLa5SGZY04W0vMZIjI9G6M2lukRZ5kZJrh)
-- [Joshua Fluke](https://www.youtube.com/playlist?list=PLhURsu87NO8sqWOmpb-JyiUTswo0nyNn9)
-- [Jarvis Johnson | When he still did tech videos](https://www.youtube.com/playlist?list=PLyBrFxr0n1iObXDxwQWShqvwepYB7b3rU)
-- [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
-- [SeneGoddess, Mbenda Ndour](https://www.youtube.com/c/Senegoddess/videos)
+- [joma's startup series](https://www.youtube.com/playlist?list=PL0BAwa0pBqg6cgVi_N2arwjs6TQ6foPi7)
+- [tren black](https://www.youtube.com/playlist?list=PLa5SGZY04W0vMZIjI9G6M2lukRZ5kZJrh)
+- [joshua fluke](https://www.youtube.com/playlist?list=PLhURsu87NO8sqWOmpb-JyiUTswo0nyNn9)
+- [jarvis johnson | When he still did tech videos](https://www.youtube.com/playlist?list=PLyBrFxr0n1iObXDxwQWShqvwepYB7b3rU)
+- [devon crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
+- [senegoddess, mbenda ndour](https://www.youtube.com/c/Senegoddess/videos)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/notdibri
