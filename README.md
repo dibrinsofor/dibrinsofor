@@ -2,12 +2,13 @@
 
 ## dibri. is trying his best.
 - I’m working on personal projects atm
-- Microsoft student learn ambassador
+- Open to SWE opportunities
+- Microsoft Learn Student Ambassador
 
 ## Last year I:
 - Interned at Total SE as a SWE
 - Finally finished Silicon Valley
-- Was granted a Google African Developer's Scholarship
+- Google African Developer's Scholarship recipient
 - Participated in the Facebook Build for SDG hackathon. We made it to the second round with our E-tourism solution
 
 ### Connect with me:
@@ -18,16 +19,6 @@
 <br />
 <br />
 ---
-
-### recommendations
-<!-- YOUTUBE:START -->
-- [joma's startup series](https://www.youtube.com/playlist?list=PL0BAwa0pBqg6cgVi_N2arwjs6TQ6foPi7)
-- [tren black](https://www.youtube.com/playlist?list=PLa5SGZY04W0vMZIjI9G6M2lukRZ5kZJrh)
-- [joshua fluke](https://www.youtube.com/playlist?list=PLhURsu87NO8sqWOmpb-JyiUTswo0nyNn9)
-- [jarvis johnson | When he still did tech videos](https://www.youtube.com/playlist?list=PLyBrFxr0n1iObXDxwQWShqvwepYB7b3rU)
-- [devon crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
-- [senegoddess, mbenda ndour](https://www.youtube.com/c/Senegoddess/videos)
-<!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/notdibri
 [linkedin]: https://www.linkedin.com/in/dibrinsofor/
